@@ -6,7 +6,7 @@
 
 - ⚡ Full Stack Web Developer | Specializing in JavaScript & PHP🔥 | Continuous Learning ✨
 - 🌱 Founder of <a href="https://agenciacamana.com/">AgenciaCamana</a>, a digital agency specializing in web development
-- 📫 Feel free to reach me out juliograndatejada@gmail.com | 📲 +51 947 101 445
+- 📫 Feel free to reach me out juliograndatejada@gmail.com 
 
 <br>
 
