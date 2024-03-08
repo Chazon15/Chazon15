@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hey there, I'm <a href="https://agenciacamana.com/">Julio Granda Tejada</a> 👋</h1>
 </div>
-<img src="https://agenciacamana.com/jgt.png">
+<img src="https://agenciacamana.com/video-git.mp4">
 ## About
 
 - ⚡ Full Stack Web Developer | Specializing in JavaScript & PHP🔥 | Fast learner ✨
