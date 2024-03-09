@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,php,tailwind,wordpress,bootstrap,css,mysql,html,express,figma,firebase,docker,dynamodb,express,idea,java,aws,kotlin,linux,md,materialui,mongodb,nextjs,postman,py,git,redux,vscode,debian,bash,angular,astro,babel,c,cpp,bots,eclipse,flutter,git,github,htmx,ai,jquery,laravel,nestjs,notion,ps,postgres,powershell,regex,vite&perline=20" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,php,tailwind,wordpress,bootstrap,css,html,mysql,angular,figma,astro,docker,dynamodb,express,idea,java,aws,kotlin,linux,ubuntu,debian,md,materialui,mongodb,nextjs,postman,py,git,redux,vscode,bash,express,firebase,babel,c,cpp,bots,eclipse,flutter,git,github,htmx,ai,jquery,laravel,nestjs,notion,ps,postgres,powershell,regex,vite&perline=20" />
   </a>
 </p>
 
