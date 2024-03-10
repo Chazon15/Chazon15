@@ -32,21 +32,22 @@
   
 </p>
 
-<table style="width: 100%; border-collapse: collapse; background-image: url('./1.svg');">
-    <tr style="background: linear-gradient(to right, #8E2DE2, #4A00E0);">
-        <th style="padding: 10px; color: white; font-weight: bold;">Nombre</th>
-        <th style="padding: 10px; color: white; font-weight: bold;">Apellido</th>
-        <th style="padding: 10px; color: white; font-weight: bold;">Edad</th>
-    </tr>
-    <tr style="background: linear-gradient(to right, #4A00E0, #8E2DE2);">
-        <td style="padding: 10px;">Juan</td>
-        <td style="padding: 10px;">Pérez</td>
-        <td style="padding: 10px;">25</td>
-    </tr>
-    <tr style="background: linear-gradient(to right, #6A11CB, #2575FC);">
-        <td style="padding: 10px;">María</td>
-        <td style="padding: 10px;">González</td>
-        <td style="padding: 10px;">30</td>
-    </tr>
-</table>
 
+
+
+<div style="overflow: hidden;">
+<table style="width: 100; border-collapse: collapse; border: solid 0 !important; text-align: center; align-items: center;">
+  <tr style="border: solid 0 !important">
+      <td style="border: solid 0 !important; border-radio: 8 !important">
+        <img src="./1.svg" />        
+      </td>
+       <td style="border: solid 0 !important">
+        <img src="./1.svg" />        
+      </td>
+     <td style="border: solid 0 !important">
+        <img src="./1.svg" />        
+      </td>
+  </tr>
+  
+</table>
+</div>
