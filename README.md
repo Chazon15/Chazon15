@@ -35,7 +35,7 @@
 
 
 
-<div style="overflow: hidden;">
+<!--div style="overflow: hidden;">
 <table style="width: 100; border-collapse: collapse; border: solid 0 !important; text-align: center; align-items: center;">
   <tr style="border: solid 0 !important">
       <td style="border: solid 0 !important; border-radio: 8 !important">
@@ -50,4 +50,4 @@
   </tr>
   
 </table>
-</div>
+</div-->
