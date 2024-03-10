@@ -3,7 +3,7 @@
 </div>
 <img src="https://agenciacamana.com/jgt.png">
 
-## <picture><img src = "https://agenciacamana.com/about-me.gif" width = 50px></picture> **About me**
+### <picture><img src = "https://agenciacamana.com/about-me.gif" width = 50px></picture> **About me**
 
 - ⚡ Full Stack Web Developer | Specializing in JavaScript & PHP🔥 | Fast learner ✨
 - 🌱 Founder of <a href="https://agenciacamana.com/">AgenciaCamana</a>, a digital agency specializing in web development
@@ -31,3 +31,5 @@
   <a href="https://www.linkedin.com/in/juliograndatejada/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   
 </p>
+
+## ![plot](./title.svg)
