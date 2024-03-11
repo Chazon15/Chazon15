@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hey there, I'm <a href="https://agenciacamana.com/">Julio Granda Tejada</a> 👋</h1>
+<h1 align="center">Hey there 👋 , I'm <a href="https://agenciacamana.com/">Julio Granda Tejada</a> </h1>
 </div>
-<img src="https://agenciacamana.com/jgt.png">
+<a href="#"><img src="https://agenciacamana.com/jgt.png"></a>
 
 ### <picture><img src = "https://agenciacamana.com/about-me.gif" width = 50px></picture> **About me**
 
@@ -27,7 +27,7 @@
         <a href="#"><img src="./1.svg" style="width: 100%; max-width: 100%; height: auto;" /></a>
     </td>
     <td style="border: none; padding: 10px; text-align: center; height: 100px; vertical-align: middle;">
-        <a href="#"><img src="./1.svg" style="width: 100%; max-width: 100%; height: auto;" /></a>
+        <a href="#"><img src="./2.svg" style="width: 100%; max-width: 100%; height: auto;" /></a>
     </td>
  </tr>
 
