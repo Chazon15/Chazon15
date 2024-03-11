@@ -38,16 +38,17 @@
 <div style="overflow: hidden;">
 <table style="width: 100; border-collapse: collapse; border: solid 0 !important; text-align: center; align-items: center;">
   <tr style="border: none;">
-    <td style="border: none; padding: 10px; text-align: center;">
+    <td style="border: none; padding: 10px; text-align: center; height: 100px; vertical-align: middle;">
         <img src="./1.svg" style="width: 100%; max-width: 100%; height: auto;" />
     </td>
-    <td style="border: none; padding: 10px; text-align: center;">
+    <td style="border: none; padding: 10px; text-align: center; height: 100px; vertical-align: middle;">
         <img src="./1.svg" style="width: 100%; max-width: 100%; height: auto;" />
     </td>
-    <td style="border: none; padding: 10px; text-align: center;">
+    <td style="border: none; padding: 10px; text-align: center; height: 100px; vertical-align: middle;">
         <img src="./1.svg" style="width: 100%; max-width: 100%; height: auto;" />
     </td>
-</tr>
+ </tr>
+
 
   
    <tr style="border: solid 0 !important">
