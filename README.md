@@ -35,19 +35,55 @@
 
 
 
-<!--div style="overflow: hidden;">
+<div style="overflow: hidden;">
 <table style="width: 100; border-collapse: collapse; border: solid 0 !important; text-align: center; align-items: center;">
   <tr style="border: solid 0 !important">
-      <td style="border: solid 0 !important; border-radio: 8 !important">
-        <img src="./1.svg" />        
+      <td style="border: solid 0 !important; border-radio: 8 !important;width:100">
+        <img src="./1.svg" style="width: 100%; max-width: 100%;height:100px" />     
       </td>
        <td style="border: solid 0 !important">
-        <img src="./1.svg" />        
+        <img src="./1.svg" style="width: 100%; max-width: 100%;height:100px" />       
       </td>
      <td style="border: solid 0 !important">
-        <img src="./1.svg" />        
+        <img src="./1.svg" style="width: 100%; max-width: 100%;height:100px" />       
+      </td>
+  </tr>
+  
+   <tr style="border: solid 0 !important">
+      <td style="border: solid 0 !important; border-radio: 8 !important">
+        <img src="https://skillicons.dev/icons?i=js,php,html,css&perline=4" />  
+      </td>
+       <td style="border: solid 0 !important">
+        +5 años       
+      </td>
+     <td style="border: solid 0 !important">
+        you can check my projects at <a href="https://agenciacamana.com">my own agency</a>  
+      </td>
+  </tr>
+  
+  <tr style="border: solid 0 !important">
+      <td style="border: solid 0 !important; border-radio: 8 !important">
+        <img src="https://skillicons.dev/icons?i=react,angular,tailwind,mongodb&perline=4" /> 
+      </td>
+       <td style="border: solid 0 !important">
+        I am mastering it right now.     
+      </td>
+     <td style="border: solid 0 !important">
+        I'll try to add a new project every month using these technologies  
+      </td>
+  </tr>
+
+<tr style="border: solid 0 !important">
+      <td style="border: solid 0 !important; border-radio: 8 !important">                   
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,mysql,sqlite&perline=4" />        
+      </td>
+       <td style="border: solid 0 !important">
+        Also, I've worked as a COBOL programmer at ViewNext.    
+      </td>
+     <td style="border: solid 0 !important">
+        Those languages helped me to improve my understanding of OOP & algorithms.
       </td>
   </tr>
   
 </table>
-</div-->
+</div>
