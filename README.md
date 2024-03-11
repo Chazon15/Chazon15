@@ -37,24 +37,25 @@
 
 <div style="overflow: hidden;">
 <table style="width: 100; border-collapse: collapse; border: solid 0 !important; text-align: center; align-items: center;">
-  <tr style="border: solid 0 !important">
-      <td style="border: solid 0 !important; border-radio: 8 !important;width:100">
-        <img src="./1.svg" style="width: 100%; max-width: 100%;height:100px" />     
-      </td>
-       <td style="border: solid 0 !important">
-        <img src="./1.svg" style="width: 100%; max-width: 100%;height:100px" />       
-      </td>
-     <td style="border: solid 0 !important">
-        <img src="./1.svg" style="width: 100%; max-width: 100%;height:100px" />       
-      </td>
-  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px; text-align: center;">
+        <img src="./1.svg" style="width: 100%; max-width: 100%; height: auto;" />
+    </td>
+    <td style="border: none; padding: 10px; text-align: center;">
+        <img src="./1.svg" style="width: 100%; max-width: 100%; height: auto;" />
+    </td>
+    <td style="border: none; padding: 10px; text-align: center;">
+        <img src="./1.svg" style="width: 100%; max-width: 100%; height: auto;" />
+    </td>
+</tr>
+
   
    <tr style="border: solid 0 !important">
       <td style="border: solid 0 !important; border-radio: 8 !important">
         <img src="https://skillicons.dev/icons?i=js,php,html,css&perline=4" />  
       </td>
        <td style="border: solid 0 !important">
-        +5 años       
+        +5 years       
       </td>
      <td style="border: solid 0 !important">
         you can check my projects at <a href="https://agenciacamana.com">my own agency</a>  
