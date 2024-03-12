@@ -10,14 +10,6 @@
 - 📫 Feel free to reach me out juliograndatejada@gmail.com 
 <br>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-
-
 <div style="overflow: hidden;">
 <table style="width: 100%; border-collapse: collapse; border: solid 0 !important; text-align: center; align-items: center;">
   
@@ -25,9 +17,6 @@
     <td colspan="2" style="border: none; padding: 10px; text-align: center; height: 100px; vertical-align: middle;">
         <a href="#"><img src="./1.svg" style="width: 100%; max-width: 100%; height: auto;" /></a>
     </td>
-    <!--td style="border: none; padding: 10px; text-align: center; height: 100px; vertical-align: middle;">
-        <a href="#"><img src="./2.svg" style="width: 100%; max-width: 100%; height: auto;" /></a>
-  </td-->
  </tr>
 
 
