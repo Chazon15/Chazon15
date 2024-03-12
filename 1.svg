@@ -2,29 +2,22 @@
   <defs>
     <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#24127B">
-        <animate attributeName="stop-color" values="#24127B; #8A2387" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#24127B; #8A2387" dur="10s" repeatCount="indefinite" />
       </stop>
       <stop offset="50%" stop-color="#8A2387">
-        <animate attributeName="stop-color" values="#8A2387; #7B0761" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#8A2387; #7B0761" dur="10s" repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="#E94057">
-        <animate attributeName="stop-color" values="#3E077B; #0A0869" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#3E077B; #0A0869" dur="10s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
   </defs>
   <rect width="100%" height="100%" fill="url(#blueGradient)" rx="12" ry="12" />
   
   <!-- Text element -->
-<text x="50%" y="50%" text-anchor="middle" fill="white" font-size="24" font-family="Sans-Serif" font-weight="bold">
-  <animate attributeName="fill" values="#fff;#f0f0f0;#ffd633;#f0f0f0;#fff" dur="4s" repeatCount="indefinite" />
-  <animateTransform attributeName="transform" attributeType="XML" type="scale" values="1;0.95;1" dur="2s" repeatCount="indefinite"/>
-  ${Techs that I Know;}
-</text>
-
-
-
-
-
+  <text x="50%" y="50%" text-anchor="middle" fill="#fff" font-size="24" font-family="Arial" font-weight="bold">
+    <animate attributeName="fill" values="#fff;#f0f0f0;#ffd633;#f0f0f0;#fff" dur="4s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" attributeType="XML" type="scale" values="1;1.05;1" dur="2s" repeatCount="indefinite" additive="sum"/>
+    ${Techs that I Know;}
+  </text>
 </svg>
-
-
