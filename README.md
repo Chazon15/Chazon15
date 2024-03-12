@@ -10,45 +10,46 @@
 - 📫 Feel free to reach me out juliograndatejada@gmail.com 
 <br>
 
-<!-- Probando table mejores proyectos 
-## Proyectos *bombitas*
+
+<div align="center">
+  <h2 align="center">🔥🔥 Projects 🔥🔥</a> </h2>
+</div>
+<br><br>
   <table>
     <tr>
       <td width="50%">
-      <h3 align="center">Curso Android Básico</h3>
-      <div align="center">
-        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-        <p>
-          <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-          <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-          </a>
-        </p>
-  <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-  </div>
-                                                                                        
-  </td>
+        <h3 align="center">Clinic System using PHP, JS, AJAX & SQL</h3>
+        <div align="center">
+          <a href="https://github.com/Chazon15/clinic" target="_blank"><img src="https://agenciacamana.com/clinic.jpg" width="400" alt="Dental Clinic System"></a>
+          <p>
+            <a href="https://github.com/Chazon15/clinic" target="_blank">
+              <img src="https://img.shields.io/badge/SEE IT-7523BD?style=for-the-badge&logo=github&logoColor=white">
+            </a>            
+          </p>
+          <p>
+             I developed a dental clinic system that enables you to schedule appointments on Google Calendar, manage doctors (add, modify, delete), patients (add, modify, delete), add treatment records, including treatments and costs, and generate reports. The system generates Excel and PDF files with valuable information you need
+          </p>
+        </div>                                                                                        
+      </td>
+      <td width="50%">
+        <h3 align="center">Clinic System using PHP, JS, AJAX & SQL</h3>
+        <div align="center">
+          <a href="https://github.com/Chazon15/clinic" target="_blank"><img src="https://agenciacamana.com/clinic.jpg" width="400" alt="Dental Clinic System"></a>
+          <p>
+            <a href="https://github.com/Chazon15/clinic" target="_blank">
+              <img src="https://img.shields.io/badge/SEE IT-7523BD?style=for-the-badge&logo=github&logoColor=white">
+            </a>            
+          </p>
+          <p>
+             I developed a dental clinic system that enables you to schedule appointments on Google Calendar, manage doctors (add, modify, delete), patients (add, modify, delete), add treatment records, including treatments and costs, and generate reports. The system generates Excel and PDF files with valuable information you need
+          </p>
+        </div>                                                                                        
+      </td>
+    </tr>                                                          
+  </table>     
   
-  <td width="50%">
-                 <br>
-  <h3 align="center">Arquitectura MVVM</h3>
-  <div align="center">                                       
-  <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
   <br>
-  <p>
-  <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-  <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-  <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-  <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-  </a>
-  </p>
-  </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-  </div>                                                             
-  </table>                                                                                 
-</div-->
+  <br>
 
 <!-- Techs  Julio Granda Tejada -->
 <div style="overflow: hidden;">
@@ -59,17 +60,15 @@
         <a href="#"><img src="./1.svg" style="width: 100%; max-width: 100%; height: auto;" /></a>
     </td>
  </tr>
-
-
-  
-   <tr style="border: solid 0 !important">
-      <td width=400px colspan=2 style="border: solid 0 !important; border-radio: 8 !important">
-        <a href="#"><img src="https://skillicons.dev/icons?i=js,php,html,css,mysql" />  </a>
-      </td>
-       <td style="border: solid 0 !important">
-        you can check my projects at my own agency <a href="https://agenciacamana.com">Agencia Camaná</a>       
-      </td>
-  </tr>
+ 
+ <tr style="border: solid 0 !important">
+    <td width=400px colspan=2 style="border: solid 0 !important; border-radio: 8 !important">
+      <a href="#"><img src="https://skillicons.dev/icons?i=js,php,html,css,mysql" />  </a>
+    </td>
+     <td style="border: solid 0 !important">
+      you can check my projects at my own agency <a href="https://agenciacamana.com">Agencia Camaná</a>       
+    </td>
+</tr>
 
    <tr style="border: solid 0 !important">
       <td width=400px colspan=2 style="border: solid 0 !important; border-radio: 8 !important">
