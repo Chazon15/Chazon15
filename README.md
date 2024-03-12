@@ -119,6 +119,13 @@
   <a href="https://www.linkedin.com/in/juliograndatejada" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
   <a href="https://agenciacamana.com/contacto.html" target="_blank"><img src="https://skillicons.dev/icons?i=rocket" alt="agenciaCamaná"/></a>
   <a href="mailto:juliograndatejada@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+</p>  
 </p>
-  
+
+<!-- GitHub Stats xd -->
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Chazon15"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chazon15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chazon15&layout=compact&langs_count=8&theme=algolia"/></a>
 </p>
