@@ -75,7 +75,7 @@
     <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
-<p align="center" ">
+<p align="center">
   <a href="https://www.linkedin.com/in/juliograndatejada" target="blank" >
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
