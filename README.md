@@ -26,7 +26,7 @@
         <a href="#"><img src="https://skillicons.dev/icons?i=js,php,html,css,mysql" />  </a>
       </td>
        <td style="border: solid 0 !important">
-        you can check my projects at <a href="https://agenciacamana.com">my own agency</a>       
+        you can check my projects at my own agency <a href="https://agenciacamana.com">Agencia Camaná</a>       
       </td>
   </tr>
 
@@ -35,7 +35,7 @@
         <a href="#"><img src="https://skillicons.dev/icons?i=wordpress,nodejs,ts,laravel,ruby" />  </a>
       </td>
        <td style="border: solid 0 !important">
-        I enjoy working on both front-end and back-end development, as you can see from my background & i have experience with wordpress ( Yoast SEO, woocommerce, elementor PRO, Contact Form & WPForms )
+        I enjoy working on both front-end and back-end development, as you can see from my background & i have experience with wordpress (Yoast SEO, woocommerce, elementor PRO, Contact Form & WPForms)
       </td>
   </tr>
   
@@ -76,15 +76,9 @@
   </ul>
 </div>
 <p align="center">
-  <a href="https://www.linkedin.com/in/juliograndatejada" target="_blank" >
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://agenciacamana.com/contacto.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=rocket" alt="agenciaCamaná" />
-  </a>
-  <a href="mailto:juliograndatejada@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/juliograndatejada" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://agenciacamana.com/contacto.html" target="_blank"><img src="https://skillicons.dev/icons?i=rocket" alt="agenciaCamaná"/></a>
+  <a href="mailto:juliograndatejada@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </p>
   
 </p>
