@@ -14,7 +14,7 @@
 <table style="width: 100%; border-collapse: collapse; border: solid 0 !important; text-align: center; align-items: center;">
   
   <tr style="border: none;">
-    <td colspan="2" style="border: none; padding: 10px; text-align: center; height: 100px; vertical-align: middle;">
+    <td colspan="3" style="border: none; padding: 10px; text-align: center; height: 100px; vertical-align: middle;">
         <a href="#"><img src="./1.svg" style="width: 100%; max-width: 100%; height: auto;" /></a>
     </td>
  </tr>
@@ -22,8 +22,8 @@
 
   
    <tr style="border: solid 0 !important">
-      <td style="border: solid 0 !important; border-radio: 8 !important">
-        <a href="#"><img src="https://skillicons.dev/icons?i=js,php,html,css&perline=3" />  </a>
+      <td width=400px colspan=2 style="border: solid 0 !important; border-radio: 8 !important">
+        <a href="#"><img src="https://skillicons.dev/icons?i=js,php,html,css" />  </a>
       </td>
        <td style="border: solid 0 !important">
         you can check my projects at <a href="https://agenciacamana.com">my own agency</a>       
@@ -31,8 +31,8 @@
   </tr>
   
   <tr style="border: solid 0 !important">
-      <td style="border: solid 0 !important; border-radio: 8 !important">
-        <a href="#"><img src="https://skillicons.dev/icons?i=react,angular,tailwind,mongodb&perline=3" /> </a>
+      <td colspan=2 style="border: solid 0 !important; border-radio: 8 !important">
+        <a href="#"><img src="https://skillicons.dev/icons?i=react,angular,tailwind,mongodb" /> </a>
       </td>
        <td style="border: solid 0 !important">
         I am mastering it right now.     
@@ -40,8 +40,8 @@
   </tr>
 
 <tr style="border: solid 0 !important">
-      <td style="border: solid 0 !important; border-radio: 8 !important">                   
-        <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,mysql,sqlite&perline=3" /> </a>       
+      <td colspan=2 style="border: solid 0 !important; border-radio: 8 !important">                   
+        <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,mysql,sqlite" /> </a>       
       </td>
        <td style="border: solid 0 !important">
         Also, I've worked as a COBOL programmer at ViewNext in Spain, which helped me master security and database management.  
