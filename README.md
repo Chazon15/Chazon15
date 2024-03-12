@@ -32,16 +32,16 @@
         </div>                                                                                        
       </td>
       <td width="50%">
-        <h3 align="center">Clinic System using PHP, JS, AJAX & SQL</h3>
+        <h3 align="center">Stylish Website using Jquery & css3</h3>
         <div align="center">
-          <a href="https://github.com/Chazon15/clinic" target="_blank"><img src="https://agenciacamana.com/clinic.jpg" width="400" alt="Dental Clinic System"></a>
+          <a href="https://github.com/Chazon15/grafimat" target="_blank"><img src="https://agenciacamana.com/jquery-web.jpg" width="400" alt="Dental Clinic System"></a>
           <p>
-            <a href="https://github.com/Chazon15/clinic" target="_blank">
-              <img src="https://img.shields.io/badge/SEE IT-7523BD?style=for-the-badge&logo=github&logoColor=white">
+            <a href="https://github.com/Chazon15/grafimat" target="_blank">
+              <img src="https://img.shields.io/badge/SEE IT-086B15?style=for-the-badge&logo=github&logoColor=white">
             </a>            
           </p>
           <p>
-             I developed a dental clinic system that enables you to schedule appointments on Google Calendar, manage doctors (add, modify, delete), patients (add, modify, delete), add treatment records, including treatments and costs, and generate reports. The system generates Excel and PDF files with valuable information you need
+             This is a stylish website built using JavaScript, jQuery, HTML5, CSS3 and Bootstrap. It loads quickly thanks to compressed images, ensuring fast speed. The SEO score is 10/10, and it's fully responsive. Additionally, the website features smooth animations and a user-friendly interface.
           </p>
         </div>                                                                                        
       </td>
