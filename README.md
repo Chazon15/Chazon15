@@ -34,7 +34,7 @@
   
    <tr style="border: solid 0 !important">
       <td style="border: solid 0 !important; border-radio: 8 !important">
-        <a href="#"><img src="https://skillicons.dev/icons?i=js,php,html,css&perline=6" />  </a>
+        <a href="#"><img src="https://skillicons.dev/icons?i=js,php,html,css&perline=3" />  </a>
       </td>
        <td style="border: solid 0 !important">
         you can check my projects at <a href="https://agenciacamana.com">my own agency</a>       
@@ -43,7 +43,7 @@
   
   <tr style="border: solid 0 !important">
       <td style="border: solid 0 !important; border-radio: 8 !important">
-        <a href="#"><img src="https://skillicons.dev/icons?i=react,angular,tailwind,mongodb&perline=6" /> </a>
+        <a href="#"><img src="https://skillicons.dev/icons?i=react,angular,tailwind,mongodb&perline=3" /> </a>
       </td>
        <td style="border: solid 0 !important">
         I am mastering it right now.     
@@ -52,7 +52,7 @@
 
 <tr style="border: solid 0 !important">
       <td style="border: solid 0 !important; border-radio: 8 !important">                   
-        <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,mysql,sqlite&perline=6" /> </a>       
+        <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,mysql,sqlite&perline=3" /> </a>       
       </td>
        <td style="border: solid 0 !important">
         Also, I've worked as a COBOL programmer at ViewNext in Spain, which helped me master security and database management.  
