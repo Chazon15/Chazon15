@@ -23,28 +23,46 @@
   
    <tr style="border: solid 0 !important">
       <td width=400px colspan=2 style="border: solid 0 !important; border-radio: 8 !important">
-        <a href="#"><img src="https://skillicons.dev/icons?i=js,php,html,css" />  </a>
+        <a href="#"><img src="https://skillicons.dev/icons?i=js,php,html,css,mysql" />  </a>
       </td>
        <td style="border: solid 0 !important">
         you can check my projects at <a href="https://agenciacamana.com">my own agency</a>       
       </td>
   </tr>
+
+   <tr style="border: solid 0 !important">
+      <td width=400px colspan=2 style="border: solid 0 !important; border-radio: 8 !important">
+        <a href="#"><img src="https://skillicons.dev/icons?i=wordpress,nodejs,ts,laravel,ruby" />  </a>
+      </td>
+       <td style="border: solid 0 !important">
+        I enjoy working on both front-end and back-end development, as you can see from my background & i have experience with wordpress ( Yoast SEO, woocommerce, elementor PRO, Contact Form & WPForms )
+      </td>
+  </tr>
   
   <tr style="border: solid 0 !important">
       <td colspan=2 style="border: solid 0 !important; border-radio: 8 !important">
-        <a href="#"><img src="https://skillicons.dev/icons?i=react,angular,tailwind,mongodb" /> </a>
+        <a href="#"><img src="https://skillicons.dev/icons?i=react,angular,tailwind,mongodb,bootstrap" /> </a>
       </td>
        <td style="border: solid 0 !important">
-        I am mastering it right now.     
+        I am mastering it right now >> I have also developed websites using Shopify
       </td>    
   </tr>
 
 <tr style="border: solid 0 !important">
       <td colspan=2 style="border: solid 0 !important; border-radio: 8 !important">                   
-        <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,mysql,sqlite" /> </a>       
+        <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,sqlite" /> </a>       
       </td>
        <td style="border: solid 0 !important">
         Also, I've worked as a COBOL programmer at ViewNext in Spain, which helped me master security and database management.  
+      </td>
+  </tr>
+
+  <tr style="border: solid 0 !important">
+      <td colspan=2 style="border: solid 0 !important; border-radio: 8 !important">                   
+        <a href="#"><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,regex" /> </a>       
+      </td>
+       <td style="border: solid 0 !important">
+        I have a background in Unix systems such as Ubuntu, Fedora, and Debian, and I'm proficient in advanced shell scripting with Bash, including regular expressions.
       </td>
   </tr>
   
@@ -54,12 +72,19 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
-<p align="center">
-  <a href="https://www.linkedin.com/in/juliograndatejada/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  
+<p align="center" ">
+  <a href="https://www.linkedin.com/in/juliograndatejada" target="blank" >
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://agenciacamana.com/contacto.html" target="blank">
+    <img src="https://skillicons.dev/icons?i=rocket" alt="agenciaCamaná" />
+  </a>
+  <a href="mailto:juliograndatejada@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
   
 </p>
