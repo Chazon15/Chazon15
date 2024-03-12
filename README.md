@@ -76,13 +76,13 @@
   </ul>
 </div>
 <p align="center">
-  <a href="https://www.linkedin.com/in/juliograndatejada" target="blank" >
+  <a href="https://www.linkedin.com/in/juliograndatejada" target="_blank" >
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://agenciacamana.com/contacto.html" target="blank">
+  <a href="https://agenciacamana.com/contacto.html" target="_blank">
     <img src="https://skillicons.dev/icons?i=rocket" alt="agenciaCamaná" />
   </a>
-  <a href="mailto:juliograndatejada@gmail.com" target="blank">
+  <a href="mailto:juliograndatejada@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
