@@ -5,7 +5,7 @@
 
 ### <picture><img src = "https://agenciacamana.com/about-me.gif" width = 50px></picture> **About me**
 
-- ⚡ Full Stack Web Developer | Specializing in JavaScript & PHP🔥 | Fast learner ✨
+- ⚡ Full Stack Web Developer | **Specializing in JavaScript & PHP**🔥 | ***Fast learner*** ✨
 - 🌱 Founder of <a href="https://agenciacamana.com/">AgenciaCamana</a>, a digital agency specializing in web development
 - 📫 Feel free to reach me out juliograndatejada@gmail.com 
 <br>
