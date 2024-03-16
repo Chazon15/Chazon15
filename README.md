@@ -81,7 +81,7 @@
   
   <tr>
       <td colspan=2>
-        <a href="#"><img src="https://skillicons.dev/icons?i=react,angular,tailwind,mongodb,bootstrap" title="FRAMEWORKS ()=> React, Angular, Tailwind CSS, MongoDB & Bootstrap"/> </a>
+        <a href="#"><img src="https://skillicons.dev/icons?i=react,angular,tailwind,mongodb,bootstrap" title="Frameworks & Libraries: React, Angular, Tailwind CSS, MongoDB & Bootstrap"/> </a>
       </td>
        <td>
         I am mastering React & Angular & I have also developed websites using Shopify for some clients.
