@@ -23,16 +23,16 @@
           <a href="https://github.com/Chazon15/clinic" target="_blank"><img src="https://agenciacamana.com/clinic.jpg" width="400" alt="Dental Clinic System"></a>
           <p>
             <a href="https://github.com/Chazon15/clinic" target="_blank">
-              <img src="https://img.shields.io/badge/SEE IT-7523BD?style=for-the-badge&logo=github&logoColor=white">
+              <img src="https://img.shields.io/badge/SEE IT-7523BD?style=for-the-badge&logo=github&logoColor=white" alt="Click to see it">
             </a>            
           </p>
           <p>
-             I developed a dental clinic system that enables you to schedule appointments on Google Calendar, manage doctors (add, modify, delete), patients (add, modify, delete), add treatment records, including treatments and costs, and generate reports. The system generates Excel and PDF files with valuable information you need
+             I developed a dental clinic system that enables you to schedule appointments on Google Calendar, manage doctors & patients (add, modify, delete), add treatment records, costs, and generate reports. The system generates Excel and PDF files with valuable information you need.
           </p>
         </div>                                                                                        
       </td>
       <td width="50%">
-        <h3 align="center">Stylish Website using Jquery & css3</h3>
+        <h3 align="center">Stylish Website using Jquery & Bootstrap</h3>
         <div align="center">
           <a href="https://github.com/Chazon15/grafimat" target="_blank"><img src="https://agenciacamana.com/jquery-web.jpg" width="400" alt="Dental Clinic System"></a>
           <p>
@@ -99,9 +99,9 @@
 
   <tr style="border: solid 0 !important">
       <td colspan=2 style="border: solid 0 !important; border-radio: 8 !important">                   
-        <a href="#"><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,regex" /> </a>       
+        <a href="#"><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,regex" alt="UNIX" /> </a>       
       </td>
-       <td style="border: solid 0 !important">
+       <td>
         I have a background in Unix systems such as Ubuntu, Fedora, and Debian, and I'm proficient in advanced shell scripting with Bash, including regular expressions.
       </td>
   </tr>
