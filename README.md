@@ -31,14 +31,14 @@
           </p>
         </div>                                                                                        
       </td>
+      <!-- GRAFIMAT -- STYLISH WEBSITE -->
       <td width="50%">
         <h3 align="center">Stylish Website using Jquery & Bootstrap</h3>
         <div align="center">
           <a href="https://github.com/Chazon15/grafimat" target="_blank"><img src="https://agenciacamana.com/jquery-web.jpg" width="400" alt="Dental Clinic System"></a>
           <p>
-            <a href="https://github.com/Chazon15/grafimat" target="_blank">
-              <img src="https://img.shields.io/badge/SEE IT-086B15?style=for-the-badge&logo=github&logoColor=white">
-            </a>            
+            <a href="https://github.com/Chazon15/grafimat" target="_blank"><img src="https://img.shields.io/badge/SEE IT-086B15?style=for-the-badge&logo=github&logoColor=white"></a>  
+            <a href="https://chazon15.github.io/grafimat/" target="_blank"><img src="https://img.shields.io/badge/Live-09841A?style=for-the-badge"></a> 
           </p>
           <p>
              This is a stylish website built using JavaScript, jQuery, HTML5, CSS3 and Bootstrap. It loads quickly thanks to compressed images, ensuring fast speed. The SEO score is 10/10, and it's fully responsive. Additionally, the website features smooth animations and a user-friendly interface.
